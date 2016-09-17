@@ -13,8 +13,8 @@
 #include <ESP8266WiFi.h>
 #include <remap.h>
 
-const char* ssid     = "CODeL Boardroom";
-const char* password = "2015codel11";
+const char* ssid     = "SSID";
+const char* password = "PASSKEY";
 
 const char* host = "data.sparkfun.com";
 const int sample_period = 5000; // period between sample acquisitions and uploads
