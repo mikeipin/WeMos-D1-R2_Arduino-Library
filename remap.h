@@ -9,9 +9,9 @@
 #define D3  5
 #define D4  4
 
-#define D5  *
-#define D6  *
-#define D7  *
+#define D5  D5
+#define D6  D6
+#define D7  D7
 #define D8  0
 #define D9  2
 #define D10 15
